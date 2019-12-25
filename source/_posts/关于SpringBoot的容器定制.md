@@ -1,6 +1,17 @@
+---
+title: SpringBoot容器配置
+date: 2019-12-25 07:15:34
+categories: SpringBoot
+tags: 
+	- use
+	- Component
+	- Tomcat
+---
 
+SpringBoot的确大大方便了web服务的开发和应用，但是对于一些细节上的处理以及其机制的实现有时也可以深入探究一下，这对于未来程序的开发和思维扩展也会很有益处。
 
-## SpringBoot对容器的定制和使用
+<!-- more -->
+
 
 ### 1.容器的配置
 
